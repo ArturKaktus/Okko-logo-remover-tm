@@ -6,6 +6,8 @@
 // @author       ArturKaktus
 // @match        https://okko.tv/*
 // @grant        none
+// @updateURL    https://github.com/ArturKaktus/Okko-logo-remover-tm/raw/refs/heads/main/userscript/logo-remover.user.js
+// @downloadURL  https://github.com/ArturKaktus/Okko-logo-remover-tm/raw/refs/heads/main/userscript/logo-remover.user.js
 // ==/UserScript==
 
 (function() {
